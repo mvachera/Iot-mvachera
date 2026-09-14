@@ -9,6 +9,6 @@ spec:
     app: wil42-playground
   ports:
     - protocol: TCP
-      nodePort: 8888
+      nodePort: 30888
       port: 8888
       targetPort: 8888
